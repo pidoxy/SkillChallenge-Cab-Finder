@@ -1,6 +1,16 @@
 # Challenge Your Skills Learnathon
 # **Contoso Cheap Cab Finder**
 
+- Challenge 1
+Sample Code with output
+<img width="1440" alt="Screenshot 2023-02-08 at 05 42 54" src="https://user-images.githubusercontent.com/56538561/217436128-7c2bd3e7-ec45-4783-acda-71c37d3c779c.png">
+
+What output file looks like
+<img width="1440" alt="Screenshot 2023-02-08 at 05 48 08" src="https://user-images.githubusercontent.com/56538561/217436304-81a52a05-2669-4256-94fd-aaa09e665bdc.png">
+
+
+
+
 **Duration** : 120 mins
 
 **Difficulty level** : Beginner
